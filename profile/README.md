@@ -2,8 +2,8 @@
 
 ### The Reliability Layer for Production AI Agents.
 
-[![Website](https://img.shields.io/badge/Website-statebase.ai-blue)](https://statebase.ai)
-[![Twitter](https://img.shields.io/twitter/follow/statebase_ai?style=social)](https://twitter.com/statebase_ai)
+[![Website](https://img.shields.io/badge/Website-statebase.org-blue)](https://statebase.org)
+[![Twitter](https://img.shields.io/twitter/follow/statebase_org?style=social)](https://twitter.com/statebase_org)
 
 ---
 
@@ -31,7 +31,7 @@ When an agent is 90% through a 10-minute task and hits a network glitch or a tim
 StateBase is currently in **Early Access**. We are selecting 3 **AI-native startups** to join our **Design Partner Program**.
 
 - **Benefits:** Free platform access, direct support from the founders, and a hand in shaping the reliability roadmap.
-- **Apply:** DM us on [LinkedIn](https://www.linkedin.com/company/statebase) or visit [statebase.ai](https://statebase.ai).
+- **Apply:** DM us on [LinkedIn](https://www.linkedin.com/company/statebase) or visit [statebase.org](https://statebase.org).
 
 ---
 
